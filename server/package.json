@@ -41,7 +41,7 @@
     "pg-hstore": "^2.3.2",
     "regenerator-runtime": "^0.13.2",
     "sequelize": "^4.43.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.5.0",
     "uuid": "^3.3.2",
     "yup": "^0.26.6"
   },
